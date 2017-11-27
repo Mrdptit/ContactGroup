@@ -1,0 +1,12 @@
+PODS:
+  - SwiftyContacts (3.0.0)
+
+DEPENDENCIES:
+  - SwiftyContacts
+
+SPEC CHECKSUMS:
+  SwiftyContacts: 63b7ac7a394dd5ba14d82e1d5a4b8456e5d1c328
+
+PODFILE CHECKSUM: eca5366672b3e5c0c836cd1352cdc9f8352bf1d6
+
+COCOAPODS: 1.2.1
